@@ -21,6 +21,6 @@ Arduino
 3. 到达终点OLED屏幕显示到达终点字样
 
 ### 展示
-![图一]{show1.jpg}
-![图二]{show2.jpg}
+![图一](show1.jpg)
+![图二](show2.jpg)
 
